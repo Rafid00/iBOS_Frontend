@@ -1,0 +1,227 @@
+[
+   {
+      "id": 1,
+      "name": "Rocking Chair",
+      "price": 120,
+      "previousPrice": 150,
+      "discount": 20,
+      "image": "images/Image.png",
+      "description": "It has a backrest that can be tilted back, and often a footrest extended"
+   },
+   {
+      "id": 2,
+      "name": "Side Chair",
+      "price": 80,
+      "previousPrice": 100,
+      "discount": 20,
+      "image": "images/Image-1.png",
+      "description": "High Back Rocking Side Pocket Portable Folding Outdoor Camping Chairs "
+   },
+   {
+      "id": 3,
+      "name": "Lounge Chair",
+      "price": 200,
+      "previousPrice": 250,
+      "discount": 20,
+      "image": "images/Image-2.png",
+      "description": "Lightweight, easy to clean, sturdy, safe and stable. Non-slip legs"
+   },
+   {
+      "id": 4,
+      "name": "Dining Chair",
+      "price": 100,
+      "previousPrice": 120,
+      "discount": 20,
+      "image": "images/Image-3.png",
+      "description": "It has a backrest that can be tilted back, and often a footrest extended"
+   },
+   {
+      "id": 5,
+      "name": "Office Chair",
+      "price": 150,
+      "previousPrice": 200,
+      "discount": 25,
+      "image": "images/Image-4.png",
+      "description": "A seat, especially for one person, usually having four legs for support."
+   },
+   {
+      "id": 6,
+      "name": "Accent Chair",
+      "price": 180,
+      "previousPrice": 200,
+      "discount": 10,
+      "image": "images/Image-5.png",
+      "description": "Stylish accent chair."
+   },
+   {
+      "id": 7,
+      "name": "Recliner Chair",
+      "price": 250,
+      "previousPrice": 300,
+      "discount": 20,
+      "image": "https://via.placeholder.com/150",
+      "description": "Comfortable recliner chair."
+   },
+   {
+      "id": 8,
+      "name": "Wingback Chair",
+      "price": 300,
+      "previousPrice": 350,
+      "discount": 15,
+      "image": "https://via.placeholder.com/150",
+      "description": "Elegant wingback chair."
+   },
+   {
+      "id": 9,
+      "name": "Club Chair",
+      "price": 200,
+      "previousPrice": 250,
+      "discount": 20,
+      "image": "https://via.placeholder.com/150",
+      "description": "Stylish club chair."
+   },
+   {
+      "id": 10,
+      "name": "Chaise Lounge",
+      "price": 350,
+      "previousPrice": 400,
+      "discount": 15,
+      "image": "https://via.placeholder.com/150",
+      "description": "Relaxing chaise lounge."
+   },
+   {
+      "id": 11,
+      "name": "Sofa",
+      "price": 500,
+      "previousPrice": 600,
+      "discount": 20,
+      "image": "https://via.placeholder.com/150",
+      "description": "Comfortable sofa."
+   },
+   {
+      "id": 12,
+      "name": "Loveseat",
+      "price": 400,
+      "previousPrice": 500,
+      "discount": 20,
+      "image": "https://via.placeholder.com/150",
+      "description": "Stylish loveseat."
+   },
+   {
+      "id": 13,
+      "name": "Sectional",
+      "price": 800,
+      "previousPrice": 1000,
+      "discount": 20,
+      "image": "https://via.placeholder.com/150",
+      "description": "Elegant sectional."
+   },
+   {
+      "id": 14,
+      "name": "Futon",
+      "price": 300,
+      "previousPrice": 350,
+      "discount": 15,
+      "image": "https://via.placeholder.com/150",
+      "description": "Comfortable futon."
+   },
+   {
+      "id": 15,
+      "name": "Daybed",
+      "price": 250,
+      "previousPrice": 300,
+      "discount": 20,
+      "image": "https://via.placeholder.com/150",
+      "description": "Stylish daybed."
+   },
+   {
+      "id": 16,
+      "name": "Sleeper Sofa",
+      "price": 600,
+      "previousPrice": 700,
+      "discount": 15,
+      "image": "https://via.placeholder.com/150",
+      "description": "Comfortable sleeper sofa."
+   },
+   {
+      "id": 17,
+      "name": "Bench",
+      "price": 150,
+      "previousPrice": 200,
+      "discount": 25,
+      "image": "https://via.placeholder.com/150",
+      "description": "Stylish bench."
+   },
+   {
+      "id": 18,
+      "name": "Ottoman",
+      "price": 100,
+      "previousPrice": 120,
+      "discount": 20,
+      "image": "https://via.placeholder.com/150",
+      "description": "Comfortable ottoman."
+   },
+   {
+      "id": 19,
+      "name": "Coffee Table",
+      "price": 200,
+      "previousPrice": 250,
+      "discount": 20,
+      "image": "https://via.placeholder.com/150",
+      "description": "Stylish coffee table."
+   },
+   {
+      "id": 20,
+      "name": "End Table",
+      "price": 100,
+      "previousPrice": 120,
+      "discount": 20,
+      "image": "https://via.placeholder.com/150",
+      "description": "Elegant end table."
+   },
+   {
+      "id": 21,
+      "name": "Console Table",
+      "price": 150,
+      "previousPrice": 200,
+      "discount": 25,
+      "image": "https://via.placeholder.com/150",
+      "description": "Stylish console table."
+   },
+   {
+      "id": 22,
+      "name": "Sofa Table",
+      "price": 120,
+      "previousPrice": 150,
+      "discount": 20,
+      "image": "https://via.placeholder.com/150",
+      "description": "Elegant sofa table."
+   },
+   {
+      "id": 23,
+      "name": "Nightstand",
+      "price": 80,
+      "previousPrice": 100,
+      "discount": 20,
+      "image": "https://via.placeholder.com/150",
+      "description": "Stylish nightstand."
+   },
+   {
+      "id": 24,
+      "name": "Dresser",
+      "price": 250,
+      "previousPrice": 300,
+      "discount": 20,
+      "image": "https://via.placeholder.com/150",
+      "description": "Elegant dresser."
+   },
+   {
+      "id": 25,
+      "name": "Chest",
+      "price": 200,
+      "previousPrice": 250,
+      "discount": 20,
+      "image": "https://via.placeholder.com/150",
+      "description": "Stylish chest."
+   }
+]
